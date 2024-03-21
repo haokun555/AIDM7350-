@@ -1,0 +1,37 @@
+h1:hover{
+    color:crimson;
+    font-size : 20px;
+}
+
+p{
+    color:aqua;
+    font-size:30px;
+}
+.standout
+{
+    color:red
+}
+.image1:hover
+{
+    border-radius: 50px;
+}
+
+.image2:hover
+{
+    border-radius: 50%;
+}
+
+.image3:hover
+{
+    opacity:0.5
+}
+
+.image4:hover
+{
+    filter:grayscale(80%);
+}
+
+.image5:hover
+{
+    filter:blur(2px);
+}
